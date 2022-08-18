@@ -21,8 +21,8 @@ Note: Better not move it avoid changing position let the macro do the job. You c
 - Claim Air Drop Supplies.
 - Can create t1 tanks.(Used for Armada Base)
 - Can create missiles.
-- Return all support if not needed.
-- Clear your admiral ports
+- Can return all support at bases if not needed.
+- Can clear your admiral ports.
 - Can repair ships at your shipyard.
 - Can repair your Headquarter.
 - Can join rallies using 2 ships without jets.
@@ -30,3 +30,7 @@ Note: Better not move it avoid changing position let the macro do the job. You c
 - Can hunt fleets if needed in your daily mission.
 - Can airstrike an armada base lv15 - lv19 if needed in your daily mission.
 - Can send supply exceot iron if needed in your daily mission.
+- Can do ads for gold.
+- Can do ads for daily mission points multiplier.
+- Can purchase Construction Boost, Research Boost, Ship Build Boostm 10 Admiral Stamina and Epic Equipment Material Box in the Point Shop.
+- Can delete the mail Battle reports and claim Notice rewards.
