@@ -17,6 +17,7 @@
 Note: Better not move it avoid changing position let the macro do the job. You can just abort or pause the macro.
 
 **MainSolo Feature**
+- Can change upto 5 admirals if exist on the same account.
 - Claim Subscription rewards like gold etc.
 - Claim Air Drop Supplies.
 - Can create t1 tanks.(Used for Armada Base)
