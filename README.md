@@ -34,3 +34,5 @@ Note: Better not move it avoid changing position let the macro do the job. You c
 - Can do ads for daily mission points multiplier.
 - Can purchase Construction Boost, Research Boost, Ship Build Boostm 10 Admiral Stamina and Epic Equipment Material Box in the Point Shop.
 - Can delete the mail Battle reports and claim Notice rewards.
+
+# USE AT YOUR OWN RISK 100% NOT TRACKABLE
