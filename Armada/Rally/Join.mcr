@@ -176,6 +176,10 @@ IF PIXEL COLOR EQUALS : 957 : 409 : 8555161 : 0
 Mouse : 0 : 0 : Click : 0 : 1 : 0
 DELAY : 100
 ENDIF
+IF PIXEL COLOR EQUALS : 957 : 409 : 8555161 : 0
+Mouse : 0 : 0 : Click : 0 : 1 : 0
+DELAY : 100
+ENDIF
 COMMENT : Remove Jets
 Mouse : 720 : 600 : Move : 0 : 0 : 0
 DELAY : 500
